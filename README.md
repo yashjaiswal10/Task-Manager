@@ -1,2 +1,2 @@
 # Task-Manager
-App to create new task, edit/update it and can even delete these tasks.
+App to create new task, edit/update it and can even delete these tasks with the help of local storage.
